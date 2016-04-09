@@ -1,6 +1,4 @@
 <h1 class="gpHeading" xmlns="">DDPExportTools</h1>
-<h2 class="gp" xmlns="">Title 
-		<span class="gpsubtitle">DDPExportTools</span>
 </h2>
 <h2 class="gp" xmlns="">Summary</h2>
 <div class="gpItemInfo" xmlns="">
